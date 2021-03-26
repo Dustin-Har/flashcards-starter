@@ -34,6 +34,4 @@ describe('Game', () => {
 
         assert.isObject(newGame.currentRound);
     });
-
-
 })

@@ -4,6 +4,8 @@ class Deck {
     constructor(card) {
         this.cards = card;
     }
+
+    countCards = () => (this.cards.length);
 }
 
 module.exports = Deck;
