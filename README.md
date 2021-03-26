@@ -19,5 +19,5 @@ Clone down the repo and cd into it. when you do run the command ``node index.js`
 
 
 #Future updates:
-- show coreect answer of question wrong
+- show coreect answer of questions wrong at end of game
 - add more decks
